@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "Person_Bio_01",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "공개된 영상은 한국 경제의 심장부에 서 있는 채이헌 허재 이혜준을 조명하며 시작했다.",
+    "slots_ko": {
+      "subject": "허재",
+      "object": "한국"
+    },
+    "slots_en": {
+      "subject": "Hae Jae",
+      "object": "Korea"
+    },
+    "slots_th": {
+      "subject": "ฮเยจวิน",
+      "object": "เกาหลี"
+    }
+  },
+  {
+    "id": "Person_Bio_02",
+    "domain": "Person_Bio",
+    "relation": "per:date_of_birth",
+    "source_ko": "조선 후기의 무신인 전운상(1694∼1760) 선생의 초상화이다.",
+    "slots_ko": {
+      "subject": "전운상",
+      "object": "1694"
+    },
+    "slots_en": {
+      "subject": "Jeon Unsong",
+      "object": "1694"
+    },
+    "slots_th": {
+      "subject": "เจงุนสมอ",
+      "object": "1694"
+    }
+  },
+  {
+    "id": "Person_Bio_03",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "후에 신라의 문무왕이 합병하고, 신문왕 때 소경(小京)을 두었으며 경덕왕 때 남원으로 고쳤으나, 여전히 소경이라 하였고, 고려에는 일시 대방이라 하였으나 남원부(南原府)로 지속되었다.",
+    "slots_ko": {
+      "subject": "신문왕",
+      "object": "신라"
+    },
+    "slots_en": {
+      "subject": "Seonmunwang",
+      "object": "Silla"
+    },
+    "slots_th": {
+      "subject": "สมุนวรวรมน",
+      "object": "ซิม"
+    }
+  },
+  {
+    "id": "Person_Bio_04",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "신라계 고려의 대법인 일연의 삼국유사에서는 서동 출신 무왕과 신라 선화공주의 이야기가 나온다.",
+    "slots_ko": {
+      "subject": "무왕",
+      "object": "서동"
+    },
+    "slots_en": {
+      "subject": "Moong",
+      "object": "Se-dong"
+    },
+    "slots_th": {
+      "subject": "มุน",
+      "object": "เสด้ง"
+    }
+  },
+  {
+    "id": "Person_Bio_05",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "2002년 프랑스 대통령 선거에서 언론은 양대 정당의 후보였던 우파 성향의 자크 시라크와 좌파 성향의 리오넬 조스팽을 결선투표 진출 후보로 점쳤다.",
+    "slots_ko": {
+      "subject": "자크 시라크",
+      "object": "프랑스"
+    },
+    "slots_en": {
+      "subject": "Jacques Chirac",
+      "object": "France"
+    },
+    "slots_th": {
+      "subject": "แจ็คกี ชิรัก",
+      "object": "ฝรั่งเศส"
+    }
+  },
+  {
+    "id": "Person_Bio_06",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "그 뒤 마사토라는 고가 고쇼 부근에서 잠시 물러났다(고노에씨 서신近衛氏書状). 전투의 결과 나리타 나가야스나 사노 마사쓰나(佐野昌綱)를 비롯한 무사시 국의 동족 우에스기 노리마사가 고호조측에 항복해 버렸다.",
+    "slots_ko": {
+      "subject": "마사토라",
+      "object": "무사시 국"
+    },
+    "slots_en": {
+      "subject": "Matsutora",
+      "object": "Samishigun"
+    },
+    "slots_th": {
+      "subject": "มาร์ซโตรา",
+      "object": "ภาคซามิชิ"
+    }
+  },
+  {
+    "id": "Person_Bio_07",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "이상헌 김정은 북한 국무위원장은 시진핑 중국 국가주석에게 \"비핵화 의지는 변함이 없다\"며 \"대화를 통해 문제를 풀고 싶다\"는 취지의 메시지를 전했다고 청와대가 27일 밝혔다.",
+    "slots_ko": {
+      "subject": "시진핑",
+      "object": "중국"
+    },
+    "slots_en": {
+      "subject": "Xi Jinping",
+      "object": "China"
+    },
+    "slots_th": {
+      "subject": "ชิน จิ้นผิง",
+      "object": "จีน"
+    }
+  },
+  {
+    "id": "Person_Bio_08",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "복권의 그 기원은 확실하지는 않으나 고대 로마의 시저(BC 102-BC 44：로마의 무장)나 네로(37-68, 로마황제)의 시대에 이미 모금의 방법으로서 복권이 팔리고 있었다고 전하여지고 있다.",
+    "slots_ko": {
+      "subject": "네로",
+      "object": "로마"
+    },
+    "slots_en": {
+      "subject": "Nero",
+      "object": "Rome"
+    },
+    "slots_th": {
+      "subject": "เนโร",
+      "object": "รอม"
+    }
+  },
+  {
+    "id": "Person_Bio_09",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "안티오키아의 레몽은 장기에게 빼앗겼던 영토를 되찾기 위해 알레포을 압박했다.",
+    "slots_ko": {
+      "subject": "레몽",
+      "object": "안티오키아"
+    },
+    "slots_en": {
+      "subject": "Lemont",
+      "object": "Antiokia"
+    },
+    "slots_th": {
+      "subject": "เรเมอน",
+      "object": "อันทิโอเค"
+    }
+  },
+  {
+    "id": "Person_Bio_10",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "중국의 국방부장 펑더화이가 그를 변호하여 사형은 모면하였으나 그해 10월 재투옥 후 옥사한다.",
+    "slots_ko": {
+      "subject": "펑더화이",
+      "object": "중국"
+    },
+    "slots_en": {
+      "subject": "Feng Derhuai",
+      "object": "China"
+    },
+    "slots_th": {
+      "subject": "ฟง เดอร์ฮัวยิ่ง",
+      "object": "จีน"
+    }
+  },
+  {
+    "id": "Person_Bio_11",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "세계적으로는 아베 신조 및 미키 다케오 일본 총리, 조지 루카스와 로버트 저메키스 영화감독, 워런 크리스토퍼 전 미국 국무장관, 닐 암스트롱 우주비행사와 프랭크 게리 건축가가 유명한 동문으로 꼽힌다.",
+    "slots_ko": {
+      "subject": "미키 다케오",
+      "object": "일본"
+    },
+    "slots_en": {
+      "subject": "Mickey Dakeo",
+      "object": "Japan"
+    },
+    "slots_th": {
+      "subject": "มิคกี้ ดะเคโอ",
+      "object": "ญี่ปุ่น"
+    }
+  },
+  {
+    "id": "Person_Bio_12",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "앞서 일본 교도통신은 영국 베팅업체 '나이사오즈'의 노벨문학상 수상자 유력 후보군에 무라카미와 다와다 요코(多和田葉子·59) 등 일본 작가 2명의 이름이 올라 있다고 전했다.",
+    "slots_ko": {
+      "subject": "무라카미",
+      "object": "일본"
+    },
+    "slots_en": {
+      "subject": "Murakami",
+      "object": "Japan"
+    },
+    "slots_th": {
+      "subject": "มูรากามิ",
+      "object": "ญี่ปุ่น"
+    }
+  },
+  {
+    "id": "Person_Bio_13",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "이 베이컨 철학은 이전의 수세기 동안 유럽문화를 지배한 인문주의가 종교와 결합해 내세우는 내세 지향적 가치관에 도전할 무기가 되었으며, 문예부흥운동으로 그 중요성이 부각된 고대 그리스, 고대 로마 문화의 가장 중요한 요소인 세속적 가치관이 다시 한 번 큰 영향력을 가질 수 있도록 하였다.",
+    "slots_ko": {
+      "subject": "베이컨",
+      "object": "유럽"
+    },
+    "slots_en": {
+      "subject": "Beef",
+      "object": "Europe"
+    },
+    "slots_th": {
+      "subject": "เนื้อไก่",
+      "object": "ยุโรป"
+    }
+  },
+  {
+    "id": "Person_Bio_14",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "2003년 다시 입각제의를 받고 입각, 고건은 노무현 대통령의 참여정부 첫 국무총리로 임명되어 직무를 수행하던 중 2004년 3월 12일 대한민국 국회가 193대 2로 노무현 대통령 탄핵 소추안을 의결하여 노무현 대통령의 직무가 정지되면서 헌법에 의거하여 대통령의 권한을 대행했다.",
+    "slots_ko": {
+      "subject": "노무현",
+      "object": "대한민국"
+    },
+    "slots_en": {
+      "subject": "Goverment of South Korea",
+      "object": "Republic of Korea"
+    },
+    "slots_th": {
+      "subject": "รัฐบาลของเกาหลีใต้",
+      "object": "ราชอาณาจูปเกาหลี"
+    }
+  },
+  {
+    "id": "Person_Bio_15",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "망누스 1세(1106년경 ~ 1134년 6월 4일)는 스웨덴의 국왕(재위: 1125년 ~ 1132년경)이자 덴마크의 왕자이다.",
+    "slots_ko": {
+      "subject": "망누스 1세",
+      "object": "덴마크"
+    },
+    "slots_en": {
+      "subject": "Mangnus I",
+      "object": "Denmark"
+    },
+    "slots_th": {
+      "subject": "มันนูส一世",
+      "object": "เดนมาร์ก"
+    }
+  },
+  {
+    "id": "Person_Bio_16",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "미국의 저널리스트인 에드거 스노 기자는 해방 후 조선에 와서 2개월간 머무르면서 정세를 알아보고 귀국한 뒤 다음과 같이 회고하였다.",
+    "slots_ko": {
+      "subject": "에드거 스노",
+      "object": "미국"
+    },
+    "slots_en": {
+      "subject": "Edgar Snow",
+      "object": "USA"
+    },
+    "slots_th": {
+      "subject": "เอ็ดเกอร์ สโน่",
+      "object": "สหรัฐ"
+    }
+  },
+  {
+    "id": "Person_Bio_17",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "374년에는 아도(阿道)가 전진에서 건너와 불도를 고구려에 전하였다.",
+    "slots_ko": {
+      "subject": "아도",
+      "object": "전진"
+    },
+    "slots_en": {
+      "subject": "Ado",
+      "object": "advance"
+    },
+    "slots_th": {
+      "subject": "อัด",
+      "object": "หน้าที่"
+    }
+  },
+  {
+    "id": "Person_Bio_18",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "스수칭(施叔靑, 1945년~)은 타이완의 소설가이다.",
+    "slots_ko": {
+      "subject": "스수칭",
+      "object": "타이완"
+    },
+    "slots_en": {
+      "subject": "Shu Shiqing",
+      "object": "Taiwan"
+    },
+    "slots_th": {
+      "subject": "สุ ศรีชัยชน",
+      "object": "тайван"
+    }
+  },
+  {
+    "id": "Person_Bio_19",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "이유는 고려 성종의 휘가 왕치(王治)였기 때문에 피휘를 하기 위해 치(治)를 뜻이 같은 리(理)로 바꿨기 때문이었다.",
+    "slots_ko": {
+      "subject": "성종",
+      "object": "고려"
+    },
+    "slots_en": {
+      "subject": "Seongjong",
+      "object": "Goryeo"
+    },
+    "slots_th": {
+      "subject": "สมโองการ",
+      "object": "จีระ"
+    }
+  },
+  {
+    "id": "Person_Bio_20",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "브리트니 스피어스와 그의 옛 남자친구도 MMC 출신이고 그녀가 미국의 팝 아이콘으로 성장한 배경에도 미키 마우스 클럽이 있었다.",
+    "slots_ko": {
+      "subject": "브리트니 스피어스",
+      "object": "미국"
+    },
+    "slots_en": {
+      "subject": "Britney Spears",
+      "object": "USA"
+    },
+    "slots_th": {
+      "subject": "บิร์ตเนีย สเปียร์ส",
+      "object": "สหรัฐ"
+    }
+  },
+  {
+    "id": "Person_Bio_21",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "박서보는 '한국 단색화의 대부', '한국 아방가르드의 선구자'로 지칭되며, 1970년대 이후 한국 현대미술을 주도한 인물이다.",
+    "slots_ko": {
+      "subject": "박서보",
+      "object": "한국"
+    },
+    "slots_en": {
+      "subject": "Baek Seubo",
+      "object": "Korea"
+    },
+    "slots_th": {
+      "subject": "ปุ่ม ศุภบุตร",
+      "object": "ประเทศไทย"
+    }
+  },
+  {
+    "id": "Person_Bio_22",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "지난 21일 영광 상사화축제장에서 열린 제8회 전국다문화가족 모국춤 페스티벌에서 베트남 자조모임 댄스팀 ‘가.우.도.’가 첫 출전에 당당히 화합상을 수상하여 상금 100만 원을 받았다.",
+    "slots_ko": {
+      "subject": "가.우.도",
+      "object": "베트남"
+    },
+    "slots_en": {
+      "subject": "Go-U-Do",
+      "object": "Vietnam"
+    },
+    "slots_th": {
+      "subject": "แก้วูดู",
+      "object": "เวียตนา"
+    }
+  },
+  {
+    "id": "Person_Bio_23",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "이허겸(李許謙, -)은 고려의 외척으로 고려 문종의 장인 이자연의 할아버지이다.",
+    "slots_ko": {
+      "subject": "문종",
+      "object": "고려"
+    },
+    "slots_en": {
+      "subject": "Tang",
+      "object": "Koguryo"
+    },
+    "slots_th": {
+      "subject": "ถอง",
+      "object": "กุยรุย"
+    }
+  },
+  {
+    "id": "Person_Bio_24",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "알렉스 레나토 이바라 미나(Alex Renato Ibarra Mina, 1991년 1월 20일, 암부키 ~)는 흔히 레나토 이바라(Renato Ibarra)로 알려진 에콰도르의 축구 윙어로, 현재 리가 MX 클럽 아틀라스와 에콰도르 국가대표팀에서 활약하고 있다.",
+    "slots_ko": {
+      "subject": "레나토 이바라",
+      "object": "에콰도르"
+    },
+    "slots_en": {
+      "subject": "Renato Ibarra",
+      "object": "Ecuador"
+    },
+    "slots_th": {
+      "subject": "เรนาโต อิбарรา",
+      "object": "เอกวาดอร์"
+    }
+  },
+  {
+    "id": "Person_Bio_25",
+    "domain": "Person_Bio",
+    "relation": "per:origin",
+    "source_ko": "이로쿼이 연방의 영국인 대리인의 경력을 통해 존슨은 개인 토지 관리 및 공무를 조합하면서, 이로쿼이 연방 100km 이상에 달하는 토지를 손에 넣은 것이다.",
+    "slots_ko": {
+      "subject": "존슨",
+      "object": "이로쿼이 연방"
+    },
+    "slots_en": {
+      "subject": "Johnson",
+      "object": "Rowley Federal"
+    },
+    "slots_th": {
+      "subject": "ชอน",
+      "object": "รุ่ยเลว รัฐ"
+    }
+  },
+  {
+    "id": "Person_Role_01",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "심은주 하나금융투자 연구원은 “매일유업의 3분기 별도기준 매출액은 전년 동기대비 5.1% 증가한 3504억원, 영업이익은 9.5% 줄어든 192억원을 달성해 시장 전망치를 소폭 하회했다”라며 “이는 성수기를 맞이한 컵커피 등 기존 제품 매출 성장을 위한 판촉비 및 신제품 ‘셀렉타’의 시장 안착을 위한 비용 투하가 영향을 끼쳤다”라고 전했다.",
+    "slots_ko": {
+      "subject": "심은주",
+      "object": "하나금융투자"
+    },
+    "slots_en": {
+      "subject": "Shin Eunju",
+      "object": "HN Securities"
+    },
+    "slots_th": {
+      "subject": "เสี่ยง ศรีนวม",
+      "object": "หุ้นสินทรัพย์"
+    }
+  },
+  {
+    "id": "Person_Role_02",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "7월에 일본 야구 올림픽 대표팀의 호시노 센이치 감독의 대표팀 소집 때문에 1군으로 긴급 복귀하여 셋업맨으로 등판하였지만 좋은 모습을 보여주지 못했다.",
+    "slots_ko": {
+      "subject": "호시노 센이치",
+      "object": "감독"
+    },
+    "slots_en": {
+      "subject": "Hoshino Senichi",
+      "object": "coach"
+    },
+    "slots_th": {
+      "subject": "호ซино เซนิชิ",
+      "object": "โค้ช"
+    }
+  },
+  {
+    "id": "Person_Role_03",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "이날 초청된 아이돔(IDOM)사의 도시재생 전문가 마리아 이바네즈는 양림동의 아름다운 경관에 탄성을 자아내며 앞으로 더욱 발전할 가능성이 높다고 평가했다.",
+    "slots_ko": {
+      "subject": "마리아 이바네즈",
+      "object": "IDOM"
+    },
+    "slots_en": {
+      "subject": "Maria Ibanes",
+      "object": "IDOM"
+    },
+    "slots_th": {
+      "subject": "มาริยา อิบันเนซ",
+      "object": "IDOM"
+    }
+  },
+  {
+    "id": "Person_Role_04",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "그 외에도 붉은 머리로 디즈니 '인어공주' 주인공 '에리얼'이라는 별명을 얻었던 유나는 금발로 돌아왔다.",
+    "slots_ko": {
+      "subject": "에리얼",
+      "object": "인어공주"
+    },
+    "slots_en": {
+      "subject": "Ariel",
+      "object": "The Little Mermaid"
+    },
+    "slots_th": {
+      "subject": "อีริล",
+      "object": "เจ้าหญิงปลา"
+    }
+  },
+  {
+    "id": "Person_Role_05",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "이날 진정무 청장은 ‘경남 치안의 현황과 경남 경찰의 역할’을 주제로 특강을 진행했으며, 특강에는 '21세기형 새로운 리더십' 교양강좌 수강생 200여 명이 참석해 성황을 이뤘다.",
+    "slots_ko": {
+      "subject": "진정무",
+      "object": "경찰"
+    },
+    "slots_en": {
+      "subject": "Zhenjingwu",
+      "object": "police"
+    },
+    "slots_th": {
+      "subject": "เจินจงมว",
+      "object": "ตำรวจ"
+    }
+  },
+  {
+    "id": "Person_Role_06",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "그해에 안국동 별궁에서 열린 세자 순종과 순명효황후의 가례 때 종실의 원로로서 참석하였다.",
+    "slots_ko": {
+      "subject": "순종",
+      "object": "세자"
+    },
+    "slots_en": {
+      "subject": "Seongjong",
+      "object": "prince regent"
+    },
+    "slots_th": {
+      "subject": "สมโง",
+      "object": "เจ้าฝาง"
+    }
+  },
+  {
+    "id": "Person_Role_07",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "개그우먼 박나래가 할아버지를 위한 선물을 구매하는 모습이 전파를 탔다.",
+    "slots_ko": {
+      "subject": "박나래",
+      "object": "개그우먼"
+    },
+    "slots_en": {
+      "subject": "Na",
+      "object": "Weiqm"
+    },
+    "slots_th": {
+      "subject": "น่า",
+      "object": " comedian"
+    }
+  },
+  {
+    "id": "Person_Role_08",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "레드벨벳의 멤버 조이가 인스타그램에 고혹적인 사진을 공개했다.",
+    "slots_ko": {
+      "subject": "조이",
+      "object": "레드벨벳"
+    },
+    "slots_en": {
+      "subject": "Joey",
+      "object": "Red Velvet"
+    },
+    "slots_th": {
+      "subject": "จอย",
+      "object": "เรดเวลভ"
+    }
+  },
+  {
+    "id": "Person_Role_09",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "코페르니쿠스는 (점성술에 관한 그의 업적은 이론에만 그쳤는데, 경험주의적 천문학은 물론) 점성술을 사용하지 않았지만, 튀코 브라헤와 요하네스 케플러 그리고 갈릴레오 갈릴레이와 같이 아이작 뉴턴 이전의 가장 저명한 천문학자들은 직업이 점성술사였다.",
+    "slots_ko": {
+      "subject": "튀코 브라헤",
+      "object": "천문학"
+    },
+    "slots_en": {
+      "subject": "Tycho Brahe",
+      "object": "astronomy"
+    },
+    "slots_th": {
+      "subject": "ทิโอ บราห์",
+      "object": "天文学"
+    }
+  },
+  {
+    "id": "Person_Role_10",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "황의조 선수가 파리생제르맹(PSG) 소속 네이마르와 함께 경기를 펼칠지 관심이 모이고 있다.",
+    "slots_ko": {
+      "subject": "황의조",
+      "object": "선수"
+    },
+    "slots_en": {
+      "subject": "Hwang Hee-chan",
+      "object": "player"
+    },
+    "slots_th": {
+      "subject": "황ยศชัย",
+      "object": "ผู้เล่น"
+    }
+  },
+  {
+    "id": "Person_Role_11",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "게임의 진행에 따라 레이 외에 두 명의 캐릭터로 플레이할 수 있는데, 한 명은 레이의 조수이자 1편의 주인공인 히나사키 미쿠이며, 또 한 명은 유우의 친구인 아마쿠라 케이이다.",
+    "slots_ko": {
+      "subject": "레이",
+      "object": "주인공"
+    },
+    "slots_en": {
+      "subject": "Ray",
+      "object": "female protagonist"
+    },
+    "slots_th": {
+      "subject": "เรย์",
+      "object": "ผู้หญิงเอกสาว"
+    }
+  },
+  {
+    "id": "Person_Role_12",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "신현대 시 문화산업과장은 “오핸즈 브랜드 지정이 지역 공예인들이 우수한 문화상품을 발굴하고 대외적으로 공예상품의 경쟁력을 강화하는데 도움이 될 것으로 기대한다”고 말했다.",
+    "slots_ko": {
+      "subject": "신현대",
+      "object": "문화산업과장"
+    },
+    "slots_en": {
+      "subject": "New Era",
+      "object": "Cultural Industry Officer"
+    },
+    "slots_th": {
+      "subject": "New Era",
+      "object": "Cultural Industry Officer"
+    }
+  },
+  {
+    "id": "Person_Role_13",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "프랑스 정부 또한 이 문제에 큰 관심을 가졌는데, 니콜라 사르코지 대통령은 \"진심으로 어느 형태의 쿼터제든 반대한다.\" 라고 발언하였고, \"쿼터제 실행은 공화국의 종말이 될 것이다.\" 라고 덧붙였다.",
+    "slots_ko": {
+      "subject": "니콜라 사르코지",
+      "object": "대통령"
+    },
+    "slots_en": {
+      "subject": "Nicolas Sarkozy",
+      "object": "President"
+    },
+    "slots_th": {
+      "subject": "นิโคลัส ซาร์โกซี",
+      "object": "ประยุทธ์"
+    }
+  },
+  {
+    "id": "Person_Role_14",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "최정기 전라남도 수산자원과장은 “도는 불법어업 단속 사전예고를 통해 자율적인 준법 조업질서 확립 분위기를 조성하고 있다”며 “사전 홍보에도 불구하고 이뤄진 불법어업 행위에 대해서 앞으로도 강력한 단속을 추진하겠다”고 밝혔다.",
+    "slots_ko": {
+      "subject": "최정기",
+      "object": "전라남도"
+    },
+    "slots_en": {
+      "subject": "Choi Jeong-ki",
+      "object": "Jeolla Namdo"
+    },
+    "slots_th": {
+      "subject": "ชยุทธ์ จินทกุล",
+      "object": "จังหวัดยุทธนาบุรี"
+    }
+  },
+  {
+    "id": "Person_Role_15",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "사천시 4-H본부 명기천 회장은 “함평에서만 볼 수 있는 다양한 기획 작품에 나비축제 이상의 감동을 받았다”며 극찬했다.",
+    "slots_ko": {
+      "subject": "명기천",
+      "object": "사천시 4-H본부"
+    },
+    "slots_en": {
+      "subject": "Chairman Mingjicheon",
+      "object": "4-H Headquarters of Sahatsun District Office"
+    },
+    "slots_th": {
+      "subject": "ผู้ว่าการเมืองไกรจันทร์",
+      "object": "สำนักงานสหกรณ์ 4-H ของสำนักงานเขตสหัสสนุน"
+    }
+  },
+  {
+    "id": "Person_Role_16",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "두 골을 추가한 베일은 24골로, 아이버 올처치와 트레버 포드를 제치고 28골을 기록한 이언 러시에 이어 웨일스 국가대표팀 최다 득점 2위에 올랐다.",
+    "slots_ko": {
+      "subject": "베일",
+      "object": "웨일스 국가대표팀"
+    },
+    "slots_en": {
+      "subject": "Bail",
+      "object": "Welsh national team"
+    },
+    "slots_th": {
+      "subject": "เบิ้ล",
+      "object": "ทีมชาติเวลส์"
+    }
+  },
+  {
+    "id": "Person_Role_17",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "롤링 스톤의 롭 셰필드는 이 앨범을 두고 \"카녜이 웨스트의 앨범 중 가장 훌륭하다고 평하며, 여태까지 들은 앨범 중에서 가장 폭넓은 영향을 끼친 앨범이며 그 어떤 음악가일지라도 이렇게 어둡고도 기묘한 음악을 만들 수 없을 것\"이라고 말했다.",
+    "slots_ko": {
+      "subject": "롭 셰필드",
+      "object": "롤링 스톤"
+    },
+    "slots_en": {
+      "subject": "Rob Sheffield",
+      "object": "Rolling Stones"
+    },
+    "slots_th": {
+      "subject": "โรบ ชเฟลฟรด",
+      "object": "โรลลิ่ง สโตน"
+    }
+  },
+  {
+    "id": "Person_Role_18",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "조윤호 연구원은 “2분기에는 그런 경우가 발생하지 않으면서 정상 수준의 수익성을 회복할 전망”이라며 “건설 부문 매출액은 전년 동기대비 역성장하겠지만 수익성이 회복되면서 5~6%의 영업이익률을 기록할 전망”이라고 설명했다.",
+    "slots_ko": {
+      "subject": "조윤호",
+      "object": "연구원"
+    },
+    "slots_en": {
+      "subject": "Choo Yunho",
+      "object": "researcher"
+    },
+    "slots_th": {
+      "subject": "จงยุทธ호",
+      "object": "ผู้วิจัย"
+    }
+  },
+  {
+    "id": "Person_Role_19",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "이 운동은 유고슬라비아의 요시프 브로즈 티토 대통령, 인도의 초대 수상 자와할랄 네루, 인도네시아의 초대 대통령 수카르노, 이집트의 대통령 가말 압델 나세르의 창안에서 나왔다.",
+    "slots_ko": {
+      "subject": "수카르노",
+      "object": "인도네시아"
+    },
+    "slots_en": {
+      "subject": "Nehru",
+      "object": "India"
+    },
+    "slots_th": {
+      "subject": "เนเธอร์แลนด์",
+      "object": "อินเดีย"
+    }
+  },
+  {
+    "id": "Person_Role_20",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "오진원 연구원은 “투자이익률은 3.27%로 전분기 대비 4bp, 전년 동기대비 60bp 하락했는데 보유주식 손상 차손과 대손충당금 영향 때문”이라며 “보장성 APE는 37.7% 증가한 3134억원을 기록했는데 특히 치매보험 등 기타 보장성 APE(연납화보험료)가 243% 성장했다”고 밝혔다.",
+    "slots_ko": {
+      "subject": "오진원",
+      "object": "연구원"
+    },
+    "slots_en": {
+      "subject": "Dr. Jungjune",
+      "object": "researcher"
+    },
+    "slots_th": {
+      "subject": "ดร.จินยอน",
+      "object": " researcher"
+    }
+  },
+  {
+    "id": "Person_Role_21",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "1946년 8월 북조선공산당이 북조선신민당과 통합하여 북조선로동당으로 결성되자 참여, 김책은북조선로동당 중앙위원회 위원 겸 당 상무위원회 위원으로 선출되었다.",
+    "slots_ko": {
+      "subject": "김책",
+      "object": "북조선로동당 중앙위원회 위원"
+    },
+    "slots_en": {
+      "subject": "Kim Jeok",
+      "object": "North Korean Workers' Party Central Committee Member"
+    },
+    "slots_th": {
+      "subject": "กิม จีคุก",
+      "object": "สมาชิกคณะกรรมการกลางพรรคแรงงานเกาหลีเหนือ"
+    }
+  },
+  {
+    "id": "Person_Role_22",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "연구책임자인 이상원 국어국문학과 교수는 “이번에 설치되는 거점연구소인 고전번역연구소를 잘 운영하여 몇 년 뒤에는 호남지역을 대표하는 고전번역 및 연구 기관으로 자리매김하도록 하고 10년 후에는 전국적 명성을 갖춘 거점연구소로 성장할 수 있도록 하겠다”면서 “한문고전 번역전문가를 꿈꾸는 예비 인재들을 위한 프로그램과 장학금도 준비돼 있으니 많은 관심을 부탁드린다”고 말했다.",
+    "slots_ko": {
+      "subject": "이상원",
+      "object": "교수"
+    },
+    "slots_en": {
+      "subject": "Jang Yongwon",
+      "object": "professor"
+    },
+    "slots_th": {
+      "subject": "สมร จงหวงวาน",
+      "object": "ศาสตราจารย์"
+    }
+  },
+  {
+    "id": "Person_Role_23",
+    "domain": "Person_Role",
+    "relation": "per:employee_of",
+    "source_ko": "이병창 농업기술센터 소장은 “담양의 뛰어난 청년농업인이 전남을 넘어 전국적으로 인정받을 수 있도록 많은 참여를 바란다”며 “군에서도 청년농업인이 안정적으로 적응하고 뛰어난 농업경쟁력을 확보할 수 있도록 최선을 다하겠다”고 말했다.",
+    "slots_ko": {
+      "subject": "이병창",
+      "object": "농업기술센터"
+    },
+    "slots_en": {
+      "subject": "Li Bingchang",
+      "object": "Agriculture Technology Center"
+    },
+    "slots_th": {
+      "subject": "อิงบินชาง",
+      "object": "ศูนย์เทคโนโลยีการเกษตร"
+    }
+  },
+  {
+    "id": "Person_Role_24",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "박성애 시인(시문인협회원)의 강의로 진행되는 이번 강의는 기본적인 발성 연습으로 시작해 마지막 시간에는 ‘진달래꽃(김소월)’, ‘풀꽃(나태주)’ 등 주옥같은 명시(名詩)들을 직접 낭송해 보는 시간을 갖는다.",
+    "slots_ko": {
+      "subject": "김소월",
+      "object": "시인"
+    },
+    "slots_en": {
+      "subject": "Kim Sokwol",
+      "object": "poet"
+    },
+    "slots_th": {
+      "subject": "กิม ศักวล",
+      "object": "ศิลปิน"
+    }
+  },
+  {
+    "id": "Person_Role_25",
+    "domain": "Person_Role",
+    "relation": "per:title",
+    "source_ko": "만세삼창은 실사형 디지털 아바타로 구현된 김구 선생, 유관순 열사, 홍범도 장군 등 독립영웅 3인이 선창을 해 이채를 띄었다.",
+    "slots_ko": {
+      "subject": "홍범도",
+      "object": "장군"
+    },
+    "slots_en": {
+      "subject": "Hong Bando",
+      "object": "general"
+    },
+    "slots_th": {
+      "subject": "ฮง บันโด",
+      "object": "ผู้บังคับบัญชา"
+    }
+  },
+  {
+    "id": "Org_Info_01",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "서울교통공사는 서울 노원구 석계역 무빙워크에 고의로 침을 바른 남성이 신종 코로나바이러스 감염증(코로나19) 검사에서 음성 판정이 나왔다고 21일 밝혔다.",
+    "slots_ko": {
+      "subject": "서울교통공사",
+      "object": "서울"
+    },
+    "slots_en": {
+      "subject": "Seoul Transportation Public Corporation",
+      "object": "Seoul"
+    },
+    "slots_th": {
+      "subject": "สำนักงานขนส่งกรุงเทพ",
+      "object": "กรุงเทพ"
+    }
+  },
+  {
+    "id": "Org_Info_02",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "25일 문인 북구청장이 광주 북구청 민방위교육장에서 열린 민주평화통일자문회의 광주북구협의회 제19기 출범식 및 회장 취임식에서 자문위원들에게 위촉장을 수여하고 있다.",
+    "slots_ko": {
+      "subject": "민주평화통일자문회의",
+      "object": "북구"
+    },
+    "slots_en": {
+      "subject": "Peace and Democratic Unity Advisory Council",
+      "object": "Buk District"
+    },
+    "slots_th": {
+      "subject": "สมานสัมพันธ์และสันติภาพเพื่อการปรองดองสมุดชี้แจง",
+      "object": "เขตบุก"
+    }
+  },
+  {
+    "id": "Org_Info_03",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "대한민국에서는 SM 엔터테인먼트와 KT 뮤직을 통해 디지털과 실물로 음반이 발매되었다.",
+    "slots_ko": {
+      "subject": "SM 엔터테인먼트",
+      "object": "대한민국"
+    },
+    "slots_en": {
+      "subject": "SM Entertainment",
+      "object": "South Korea"
+    },
+    "slots_th": {
+      "subject": "เอ็นเตอร์เทนเมนต์ซีม",
+      "object": "ประเทศไทย"
+    }
+  },
+  {
+    "id": "Org_Info_04",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "1991년에는 카이세리 지역구에 복지당 후보로 나서 터키 국회의원으로 처음 당선되어 1995년까지 의원직을 맡았다.",
+    "slots_ko": {
+      "subject": "복지당",
+      "object": "터키"
+    },
+    "slots_en": {
+      "subject": "Social Democratic Party",
+      "object": "Turkey"
+    },
+    "slots_th": {
+      "subject": "พรรคสุขภาพ",
+      "object": "ตุรกี"
+    }
+  },
+  {
+    "id": "Org_Info_05",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "이번 공연은 광산구가 청년예술단체와 광산문예회관 무대를 나누는 ‘화요문화산책’의 올해 마지막 공연.",
+    "slots_ko": {
+      "subject": "광산구",
+      "object": "광산문예회관"
+    },
+    "slots_en": {
+      "subject": "Gong Mountain District",
+      "object": "Gong Mountain Cultural and Art House"
+    },
+    "slots_th": {
+      "subject": "จังหวัดกงสี",
+      "object": "สำนักงาน文化艺术会馆"
+    }
+  },
+  {
+    "id": "Org_Info_06",
+    "domain": "Org_Info",
+    "relation": "org:founded",
+    "source_ko": "한편 아이오아이는 지난 2016년 방송된 Mnet '프로듀스 101'을 통해 탄생한 걸그룹이다.",
+    "slots_ko": {
+      "subject": "아이오아이",
+      "object": "2016년"
+    },
+    "slots_en": {
+      "subject": "AIOI",
+      "object": "2016"
+    },
+    "slots_th": {
+      "subject": "AIOI",
+      "object": "2560"
+    }
+  },
+  {
+    "id": "Org_Info_07",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "12월 28일 AP통신이 미국 기자들을 대상으로 2009년 10대 연예뉴스를 선정한 결과 잭슨의 죽음은 1위를 차지했다.",
+    "slots_ko": {
+      "subject": "AP통신",
+      "object": "미국"
+    },
+    "slots_en": {
+      "subject": "AP",
+      "object": "US"
+    },
+    "slots_th": {
+      "subject": "AP",
+      "object": "สหรัฐ"
+    }
+  },
+  {
+    "id": "Org_Info_08",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "2018년 10월 1일에 우루과이전, 파나마전에 출전할 벤투호 처음으로 명단에 포함되면서 대한민국 축구 국가대표팀 명단에 발탁되었으나, 경기에는 출전하지 못하였다.",
+    "slots_ko": {
+      "subject": "벤투호",
+      "object": "대한민국"
+    },
+    "slots_en": {
+      "subject": "Buteveho",
+      "object": "Daehanminju"
+    },
+    "slots_th": {
+      "subject": "บีเนเว่",
+      "object": "ประเทศไทย"
+    }
+  },
+  {
+    "id": "Org_Info_09",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "또 정읍의 향토문화를 연구하는 김재영 소장과 조광환 소장이 내용 자문을 맡고 수제천 보존회의 이금섭 예술감독이 음악 전체를 작곡했다.",
+    "slots_ko": {
+      "subject": "수제천 보존회",
+      "object": "정읍"
+    },
+    "slots_en": {
+      "subject": "Conservation Society of Shuhui",
+      "object": "Shuhui"
+    },
+    "slots_th": {
+      "subject": "ประชุมอนุรักษ์ถั่วหิมะ",
+      "object": "ถั่วหิมะ"
+    }
+  },
+  {
+    "id": "Org_Info_10",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "경상북도 직행버스 업체인 경북고속, 아진고속, 아성고속, 천마고속이 있다.",
+    "slots_ko": {
+      "subject": "아성고속",
+      "object": "경상북도"
+    },
+    "slots_en": {
+      "subject": "Asung Expressway",
+      "object": "Jeollbuk-do"
+    },
+    "slots_th": {
+      "subject": "อสมุถุนธ์ Expressway",
+      "object": "จังหวัด경상북도"
+    }
+  },
+  {
+    "id": "Org_Info_11",
+    "domain": "Org_Info",
+    "relation": "org:founded",
+    "source_ko": "특히, 지난 1978년 첫 펜싱팀 창단 후 에뻬팀이 해체되는 아픔을 겪었다가 지난 2012년 에뻬팀을 재창단 전남도청 펜싱팀은 그동안 에뻬 개인전과 사브르에서는 금빛 낭보를 울렸지만, 에뻬 단체전에서 전국 최강의 자리에 올라본 적은 없었다.",
+    "slots_ko": {
+      "subject": "펜싱팀",
+      "object": "1978년"
+    },
+    "slots_en": {
+      "subject": "fencing team",
+      "object": "1978"
+    },
+    "slots_th": {
+      "subject": "ทีมพีนซิง",
+      "object": "พ.ศ. 2501"
+    }
+  },
+  {
+    "id": "Org_Info_12",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "대한민국 축구 국가대표팀의 일원으로 활약하며 1948년 하계 올림픽과 1954년 FIFA 월드컵에 참가했다.",
+    "slots_ko": {
+      "subject": "축구 국가대표팀",
+      "object": "대한민국"
+    },
+    "slots_en": {
+      "subject": "national football team",
+      "object": "South Korea"
+    },
+    "slots_th": {
+      "subject": "ทีมฟุตบอลทีมชาติ",
+      "object": "ประเทศไทย"
+    }
+  },
+  {
+    "id": "Org_Info_13",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "브래드 피트는 지난 18일(현지시각) 미국 매체 CNN과 인터뷰에서 안젤리나 졸리와 이혼 후 힘들었던 시간을 보냈다고 털어놨다.",
+    "slots_ko": {
+      "subject": "CNN",
+      "object": "미국"
+    },
+    "slots_en": {
+      "subject": "CNN",
+      "object": "USA"
+    },
+    "slots_th": {
+      "subject": "ซีเอ็นเอ็น",
+      "object": "สหรัฐ"
+    }
+  },
+  {
+    "id": "Org_Info_14",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "이어 “▲인공지능 중심도시 광주 실현 ▲노사상생의 ㈜광주글로벌모터스의 자동차공장 건설 ▲도시철도 2호선 건설 ▲경제자유구역 지정을 통한 대대적인 투자유치 ▲아이 낳아 키우기 좋은 광주 만들기 ▲5‧18민주화운동의 진상규명과 세계화 ▲광주전남의 상생협력 등 하나하나가 광주의 역사를 새롭게 쓰는 중차대한 일이다”고 설명했다.",
+    "slots_ko": {
+      "subject": "광주글로벌모터스",
+      "object": "광주"
+    },
+    "slots_en": {
+      "subject": "Gwangju Global Motors",
+      "object": "Gwangju"
+    },
+    "slots_th": {
+      "subject": "กิจการกรุงจงวีร์",
+      "object": "กิจการกรุงจงวีร"
+    }
+  },
+  {
+    "id": "Org_Info_15",
+    "domain": "Org_Info",
+    "relation": "org:founded",
+    "source_ko": "임시 의정원은 1946년 2월 1일 비상국민회의(이듬해 국민의회로 개칭)로 계승되었다.",
+    "slots_ko": {
+      "subject": "비상국민회의",
+      "object": "1946년 2월 1일"
+    },
+    "slots_en": {
+      "subject": "National Assembly",
+      "object": "February 1, 1946"
+    },
+    "slots_th": {
+      "subject": "ประชุมประชาชนชั่วคราว",
+      "object": "เมื่อวันที่ 1 กุมภาพันธ์ พ.ศ. 2509"
+    }
+  },
+  {
+    "id": "Org_Info_16",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "미국의 국립과학재단(National Science Foundation：NSF), 프랑스의 국립과학연구소(Centre National de Recherche Scientifique：CNRS), 영국의 과학기술정보국(Secretary of State for Education and Science), 서독의 카이저 빌헬름 게젤샤프트(Kaiser Wilhelm Gesellschaft) 등은 민간 및 정부기관의 연구를 재정적으로 지원하며 각 연구소간의 상호 조정을 기하기도 한다.",
+    "slots_ko": {
+      "subject": "국립과학재단",
+      "object": "미국"
+    },
+    "slots_en": {
+      "subject": "National Science Foundation",
+      "object": "USA"
+    },
+    "slots_th": {
+      "subject": "สำนักงานการวิจัยแห่งชาติ",
+      "object": "สหรัฐอเมริกา"
+    }
+  },
+  {
+    "id": "Org_Info_17",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "태화로터리정류장의 시설은 금아고속관광이 기증한 것으로 금아버스그룹, 아성고속, 천마고속 등 경상북도를 연고지로 하는 버스회사가 운행하는 노선이 주로 태화로터리를 경유한다.",
+    "slots_ko": {
+      "subject": "아성고속",
+      "object": "경상북도"
+    },
+    "slots_en": {
+      "subject": "Asen Express",
+      "object": "Shandong Province"
+    },
+    "slots_th": {
+      "subject": "Asen Express",
+      "object": "ภาคตะวันออก"
+    }
+  },
+  {
+    "id": "Org_Info_18",
+    "domain": "Org_Info",
+    "relation": "org:founded",
+    "source_ko": "1906년 상동감리교회에서 설립한 공옥학교에서 교사로 일했으며, 1907년에 교감 이회영, 교사 이동녕 등과 함께 신민회를 상동감리교회에서 결성하였다.",
+    "slots_ko": {
+      "subject": "공옥학교",
+      "object": "1906년"
+    },
+    "slots_en": {
+      "subject": "Public School Gongwok",
+      "object": "1906"
+    },
+    "slots_th": {
+      "subject": "โรงเรียนเอกวีก",
+      "object": "พุทธศักราช 1906"
+    }
+  },
+  {
+    "id": "Org_Info_19",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "경기도 주관으로 양주시, 의정부시와 함께한 이 날 기념행사에는 이화순 경기도 행정2부지사, 정성호 국회의원, 이성호 양주시장, 안병용 의정부시장을 비롯해 도‧시의원, 시민 등 1천여명이 참석해 성황을 이뤘다.",
+    "slots_ko": {
+      "subject": "양주시",
+      "object": "양주"
+    },
+    "slots_en": {
+      "subject": "Yangju",
+      "object": "Yangju"
+    },
+    "slots_th": {
+      "subject": "ยงจุ",
+      "object": "ยงจุ"
+    }
+  },
+  {
+    "id": "Org_Info_20",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "한편 영강동 지역사회보장협의체는 올해 민간복지자원 연계를 통해 칼 갈이 봉사, 방충망 교체, 건강 빵 나눔 등 다양한 복지특화사업을 추진할 계획이다.",
+    "slots_ko": {
+      "subject": "지역사회보장협의체",
+      "object": "영강동"
+    },
+    "slots_en": {
+      "subject": "Regional Social Welfare Council",
+      "object": "Ying Gang Dong"
+    },
+    "slots_th": {
+      "subject": "สหกรณ์การเกษตร",
+      "object": "ยิงกรุงทิศ"
+    }
+  },
+  {
+    "id": "Org_Info_21",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "부산항만공사는 지난 달 27일과 이번 달 11일, 두 차례에 걸쳐 부산지역 취약계층 아동과 독거노인에게 마스크․손소독제 등을 지원하기 위해 각각 1천만원, 5백만원을 기부한 바 있다.",
+    "slots_ko": {
+      "subject": "부산항만공사",
+      "object": "부산"
+    },
+    "slots_en": {
+      "subject": "Busan Port Authority",
+      "object": "Busan"
+    },
+    "slots_th": {
+      "subject": "สำนักงานการประมงและท่าเรือภูเก็ต",
+      "object": "ภูเก็ต"
+    }
+  },
+  {
+    "id": "Org_Info_22",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "지난 16일 미국 지역방송 KGET는 \"멕시코 베이커스필드 자동차 딜러 호세 아레돈도(Jose Arredondo·58)가 16일 오전 휴양지 카보 산 루카스에 있는 그의 집에서 살해된 것으로 추정된다\"라고 호세 아레돈도 지인들 말을 빌려 보도했다.",
+    "slots_ko": {
+      "subject": "KGET",
+      "object": "미국"
+    },
+    "slots_en": {
+      "subject": "KGET",
+      "object": "USA"
+    },
+    "slots_th": {
+      "subject": "KGET",
+      "object": "สหรัฐ"
+    }
+  },
+  {
+    "id": "Org_Info_23",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "사이먼 프레이저 대학교(SFU)는 캐나다 브리티시컬럼비아주 버너비에 있는 공립 대학이다.",
+    "slots_ko": {
+      "subject": "사이먼 프레이저 대학교",
+      "object": "브리티시컬럼비아주"
+    },
+    "slots_en": {
+      "subject": "Simon Fraser University",
+      "object": "British Columbia"
+    },
+    "slots_th": {
+      "subject": "มหาวิทยาลัยไซมอน ฟราย์",
+      "object": "บริติช คอลอมบีย์"
+    }
+  },
+  {
+    "id": "Org_Info_24",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "KBS 제1라디오는 대한민국의 방송국 한국방송공사에서 운영·방송하는 라디오 채널이다.",
+    "slots_ko": {
+      "subject": "한국방송공사",
+      "object": "대한민국"
+    },
+    "slots_en": {
+      "subject": "KBS",
+      "object": "South Korea"
+    },
+    "slots_th": {
+      "subject": "สำนักงานกระจายเสียงแห่งประเทศไทย",
+      "object": "ประเทศไทย"
+    }
+  },
+  {
+    "id": "Org_Info_25",
+    "domain": "Org_Info",
+    "relation": "org:place_of_headquarters",
+    "source_ko": "17일 남원시에 따르면 남원 관광자원을 바탕으로 대표 상징 콘텐츠를 접목한 트렌드에 맞는 실용적인 관광기념품을 개발하고자 지난해 11월부터 남원시 관광기념품 개발 용역을 추진하고 있다.",
+    "slots_ko": {
+      "subject": "남원시",
+      "object": "남원"
+    },
+    "slots_en": {
+      "subject": "South Mountain County",
+      "object": "South Mountain"
+    },
+    "slots_th": {
+      "subject": "สำนักงานการท่องเที่ยวและกีฬาจังหวัดมณฑลสมุทรปราการ",
+      "object": "มณฑลสมุทรปราการ"
+    }
+  },
+  {
+    "id": "Org_People_01",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "김진우 한국투자증권 연구원은 “8년 만에 파업 없이 합의했다”며 “이제 다시 신차와 이익 모멘텀에 주목할 시점”이라고 말했다.",
+    "slots_ko": {
+      "subject": "한국투자증권",
+      "object": "김진우"
+    },
+    "slots_en": {
+      "subject": "Korean Investment Securities",
+      "object": "Kim Jinwo"
+    },
+    "slots_th": {
+      "subject": "กงจินโว 证券投资",
+      "object": "คิมจินโว"
+    }
+  },
+  {
+    "id": "Org_People_02",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "포천시 관계자는 “현장 중심의 공정하고 합리적인 계약심사를 위해 적극적으로 노력하겠다. 앞으로도 철저한 심사를 통해 시민의 혈세가 낭비되는 일이 없도록 최선을 다하겠다”고 밝혔다.",
+    "slots_ko": {
+      "subject": "포천시",
+      "object": "관계자"
+    },
+    "slots_en": {
+      "subject": "P'ocheon City",
+      "object": "official"
+    },
+    "slots_th": {
+      "subject": "พื้นที่จังหวัดโพธิ์",
+      "object": "ผู้แทน"
+    }
+  },
+  {
+    "id": "Org_People_03",
+    "domain": "Org_People",
+    "relation": "org:members",
+    "source_ko": "환경오염 배출시설 및 방지시설 현장 공개 방안에 대해서는 전라남도와 여수시가 7월 중 기업체와 ‘환경오염시설의 자발적 공개 협약’을 체결키로 했다.",
+    "slots_ko": {
+      "subject": "전라남도",
+      "object": "여수시"
+    },
+    "slots_en": {
+      "subject": "Fukui Province",
+      "object": "Yeosu City"
+    },
+    "slots_th": {
+      "subject": "จังหวัดฟุกุโอกะ",
+      "object": "เมืองยโสธุสิตา"
+    }
+  },
+  {
+    "id": "Org_People_04",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "육군은 지난 3월부터 6월까지 육군훈련소와 9사단 훈련병을 대상으로 4주 교육훈련 모델을 시험 적용했다.",
+    "slots_ko": {
+      "subject": "육군",
+      "object": "훈련병"
+    },
+    "slots_en": {
+      "subject": "Army",
+      "object": "trainees"
+    },
+    "slots_th": {
+      "subject": "กองทัพบก",
+      "object": "ทหาร"
+    }
+  },
+  {
+    "id": "Org_People_05",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "글래드 호텔 마케팅 담당자는 “메종 글래드 제주에서 깊어가는 가을의 감성을 느낄 수 있도록 하동균X펀치 콘서트를 기획하여 제주도민들에게는 문화 생활을 선사하고 투숙객에게는 특별한 여행을 즐길 수 있도록 준비했다”면서 “스낵바 및 카페 판매 금액의 일부는 글래드림 캠페인의 일환으로 월드비전에 기부될 예정이며 앞으로도 글래드 뮤직 페스트를 통해 다양한 볼거리와 즐길 거리를 선보일 것”이라고 말했다.",
+    "slots_ko": {
+      "subject": "글래드 호텔",
+      "object": "마케팅 담당자"
+    },
+    "slots_en": {
+      "subject": "Glad Hotel",
+      "object": "Marketing Manager"
+    },
+    "slots_th": {
+      "subject": "โรงแรม กรีด",
+      "object": "ผู้ดูแลการตลาด"
+    }
+  },
+  {
+    "id": "Org_People_06",
+    "domain": "Org_People",
+    "relation": "org:members",
+    "source_ko": "달콤커피가 지난 2월 전국 비트 매장(60개)의 주문량을 분석한 결과, 로드 상권(쇼핑몰, 대형마트, 영화관 등) 주문량은 전월 대비 감소세에 들어선 반면, 기업 매장 내 주문량은 평균 15% 이상 증가했다.",
+    "slots_ko": {
+      "subject": "달콤커피",
+      "object": "비트"
+    },
+    "slots_en": {
+      "subject": "Dallom Coffee",
+      "object": "BIT"
+    },
+    "slots_th": {
+      "subject": "달콤커피",
+      "object": "BIT"
+    }
+  },
+  {
+    "id": "Org_People_07",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "실제로 케빈 매카시 하원 공화당 원내대표는 언론 인터뷰에서 인터뷰에서 \"비디오 게임 산업이 젊은이들에게 살인을 가르치고 있다\"고 주장했다.",
+    "slots_ko": {
+      "subject": "공화당",
+      "object": "원내대표"
+    },
+    "slots_en": {
+      "subject": "Republican Party",
+      "object": "Representative"
+    },
+    "slots_th": {
+      "subject": "พรรคภูมิคุณ",
+      "object": "สมาชิกวุฒิสภา"
+    }
+  },
+  {
+    "id": "Org_People_08",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "율리아누스가 퇴각하다가 결국 전투 중의 부상으로 죽자 로마 군단은 처음에는 살루스트를 황제로 옹립하려 했으나, 그가 끝내 고사하자 요비아누스를 황제로 옹립했다.",
+    "slots_ko": {
+      "subject": "로마 군단",
+      "object": "율리아누스"
+    },
+    "slots_en": {
+      "subject": "Roman army",
+      "object": "Julianus"
+    },
+    "slots_th": {
+      "subject": "กองกำลังรومัน",
+      "object": "ยูลิยาเนส"
+    }
+  },
+  {
+    "id": "Org_People_09",
+    "domain": "Org_People",
+    "relation": "org:members",
+    "source_ko": "순천시(시장 허석)는 장천동 도시재생뉴딜사업의 일환으로 사업구역 내 음식업소의 맛, 서비스 개선으로 경쟁력 강화를 위한 ‘몽미락(夢味樂) 프로젝트’를 진행한다고 밝혔다.",
+    "slots_ko": {
+      "subject": "순천시",
+      "object": "장천동"
+    },
+    "slots_en": {
+      "subject": "Suncheon City",
+      "object": "Jangcheon-dong"
+    },
+    "slots_th": {
+      "subject": "จันทันซิตี้",
+      "object": "จันท์ดง"
+    }
+  },
+  {
+    "id": "Org_People_10",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "옥중에서 경성콤그룹의 결성 소식을 접한 박헌영은 처음에 경성콤그룹에 참가하지 않았으나, 이순금의 설득으로 콤그룹에 가입하게 됐다.",
+    "slots_ko": {
+      "subject": "경성콤그룹",
+      "object": "박헌영"
+    },
+    "slots_en": {
+      "subject": "Jingsheng ComGroup",
+      "object": "Park Hyun Young"
+    },
+    "slots_th": {
+      "subject": "คอมกรุปเจินเสงย",
+      "object": "ปารค์ หงยอง"
+    }
+  },
+  {
+    "id": "Org_People_11",
+    "domain": "Org_People",
+    "relation": "org:members",
+    "source_ko": "가맹국의 정부나 자치 지방의 수뇌가 그 날의 모든 국제 이슈에 대해서 토의하고 프랑코포니의 활동 전략과 목표를 세우는데, 이를 통해 프랑코포니의 국제 영향력 발휘를 보장한다.",
+    "slots_ko": {
+      "subject": "정부",
+      "object": "프랑코포니"
+    },
+    "slots_en": {
+      "subject": "government",
+      "object": "Franco-Poni"
+    },
+    "slots_th": {
+      "subject": "รัฐบาล",
+      "object": "ฝรั่ง-พonio"
+    }
+  },
+  {
+    "id": "Org_People_12",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "서구청 관계자는 “구민들을 위해 인문학·민주시민교육 등 다양한 평생교육 프로그램을 개발·운영 중이다.”며, “이번 교육을 통해 참여 학습자들에게 작게나마 도움이 되길 바란다” 고 말했다.",
+    "slots_ko": {
+      "subject": "서구청",
+      "object": "구민"
+    },
+    "slots_en": {
+      "subject": "The District Office",
+      "object": "the citizens"
+    },
+    "slots_th": {
+      "subject": "สำนักงานเขต",
+      "object": "ประชาชน"
+    }
+  },
+  {
+    "id": "Org_People_13",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "농심 관계자는 “액상소스가 감자칩에 잘 스며들어 한층 깊고 진한 맛을 낸다”며 “분말소스로 맛을 낸 시중 감자칩과 차별점을 뒀다”고 설명했다.",
+    "slots_ko": {
+      "subject": "농심",
+      "object": "관계자"
+    },
+    "slots_en": {
+      "subject": "Nongshim",
+      "object": "spokesperson"
+    },
+    "slots_th": {
+      "subject": "นิชิม",
+      "object": "ผู้สื่อข่าว"
+    }
+  },
+  {
+    "id": "Org_People_14",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "시 소방안전본부 관계자는 “앞으로도 다양한 운영 방안 등을 논의하는 소통의 장을 열어 학교 내 안전지킴이로서 119소년단을 활성화 시키겠다”고 말했다.",
+    "slots_ko": {
+      "subject": "시 소방안전본부",
+      "object": "관계자"
+    },
+    "slots_en": {
+      "subject": "City Fire Safety Office",
+      "object": "Representatives"
+    },
+    "slots_th": {
+      "subject": "สำนักงานป้องกันและบรรเทาสาธารณภัยเมือง",
+      "object": "ผู้แทน"
+    }
+  },
+  {
+    "id": "Org_People_15",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "2010년 로퀜스의 두 번째 앨범이 발매될 예정이었지만, 소울 컴퍼니 해체 이후 Loquence 활동은 사실상 불가능하다고 밝혔다.",
+    "slots_ko": {
+      "subject": "소울 컴퍼니",
+      "object": "로퀜스"
+    },
+    "slots_en": {
+      "subject": "Souls Company",
+      "object": "Lorequence"
+    },
+    "slots_th": {
+      "subject": " Soul คอมเปเนีย",
+      "object": " 로เควนเชส"
+    }
+  },
+  {
+    "id": "Org_People_16",
+    "domain": "Org_People",
+    "relation": "org:members",
+    "source_ko": "2018년 아우디그룹은 아우디 브랜드 181만 2천여대, 람보르기니 스포츠카 5천 750대, 두카티 모터사이클 5만 3천 4대를 판매했으며, 592억 유로의 매출을 기록했다.",
+    "slots_ko": {
+      "subject": "아우디그룹",
+      "object": "람보르기니"
+    },
+    "slots_en": {
+      "subject": "Audi Group",
+      "object": "Lamborghini"
+    },
+    "slots_th": {
+      "subject": "อูเอ็ง",
+      "object": "ลามبورกี้นี่"
+    }
+  },
+  {
+    "id": "Org_People_17",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "김성배 광양읍장은 “우리 고유의 명절인 설을 맞아 큰 힘이 되어주신 광양동백로타리클럽 허남옥 회장과 회원분들에게 감사드린다”며 “온정의 손길이 더 멀리 그리고 깊이 닿을 수 있도록 앞으로도 복지사각지대 발굴에 최선을 다하겠다”고 덧붙였다.",
+    "slots_ko": {
+      "subject": "광양동백로타리클럽",
+      "object": "허남옥"
+    },
+    "slots_en": {
+      "subject": "Gwangyang Cherry Rotary Club",
+      "object": "Hun Yong Ok"
+    },
+    "slots_th": {
+      "subject": "กลุ่มโรตารี่ดงบานวัง양",
+      "object": "ฮุน ณัฐโอค"
+    }
+  },
+  {
+    "id": "Org_People_18",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "부평구(구청장 차준택)가 민족 고유의 명절인 추석을 맞아 사랑의 쌀 나눔 사업을 진행하고 있는 가운데 기업과 구민들의 행복한 나눔의 손길이 이어지고 있다.",
+    "slots_ko": {
+      "subject": "부평구",
+      "object": "차준택"
+    },
+    "slots_en": {
+      "subject": "Bupyeon District",
+      "object": "Jae-jun-tak"
+    },
+    "slots_th": {
+      "subject": "พื้นที่ปกครองบุปเณร",
+      "object": "เจาจินเต็ค"
+    }
+  },
+  {
+    "id": "Org_People_19",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "2017년 12월 22일 문재인 대통령이 현장을 방문하자 감정적으로 격앙돼 있던 일부 유가족은 대선 구호였던 '사람이 먼저다'을 상기시키면서 \"이번에 사람이고 뭐고 없었다\"며 분노했고 \"정부가 이런 식으로 대처하는 게 한두 번이냐\", \"초기대응만 잘했어도 사람이 이렇게 많이 죽지는 않았을 것\"이라며 \"세월호 이후에는 좀 나아지는가 했는데 안전 시스템이 나아진 것이 없다\"는 것도 지적했다.",
+    "slots_ko": {
+      "subject": "정부",
+      "object": "유가족"
+    },
+    "slots_en": {
+      "subject": "government",
+      "object": "families"
+    },
+    "slots_th": {
+      "subject": "รัฐบาล",
+      "object": "ครอบครัว"
+    }
+  },
+  {
+    "id": "Org_People_20",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "김 지사는 이날 “완도군이 지역경제 손실을 감수하고 지역민의 안전을 위해 낚시어선 승선 관광객의 주말 조업을 금지한 행정명령을 내려 선제적으로 잘 대응해줬다”며 “코로나19 극복을 위해 고강도 ‘사회적 거리두기’ 캠페인도 적극 추진해 줄 것”을 당부했다.",
+    "slots_ko": {
+      "subject": "완도군",
+      "object": "지역민"
+    },
+    "slots_en": {
+      "subject": "Wando County",
+      "object": "locals"
+    },
+    "slots_th": {
+      "subject": "วันดําจังหวัด",
+      "object": "ประชาชน"
+    }
+  },
+  {
+    "id": "Org_People_21",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "순천시 관계자는 “지역문제 해결은 지역주민 스스로 해결 할 수 있는 주민자치형 공공서비스 구축과 찾아가는 보건복지서비스 등 민관 협력시스템이 절대적으로 필요하다.”며 참석자들의 적극적인 참여와 협조를 당부했다.",
+    "slots_ko": {
+      "subject": "순천시",
+      "object": "지역주민"
+    },
+    "slots_en": {
+      "subject": "Suncheon City",
+      "object": "local residents"
+    },
+    "slots_th": {
+      "subject": "เมืองจันท์",
+      "object": "ประชาชนใน辖区"
+    }
+  },
+  {
+    "id": "Org_People_22",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "민주노총전북본부는 더 이상 노동부가 제 역할을 하지 못 해 수많은 노동자들이 탄압받고, 비정규직 노동자들이 피해를 보며, 세금이 낭비되는 상황을 묵과하지 않을 것이다.",
+    "slots_ko": {
+      "subject": "민주노총전북본부",
+      "object": "노동자"
+    },
+    "slots_en": {
+      "subject": "Democratic Federation of North Jeolla",
+      "object": "workers"
+    },
+    "slots_th": {
+      "subject": "พุทธิชนทางภาคเหนือ",
+      "object": "แรงงาน"
+    }
+  },
+  {
+    "id": "Org_People_23",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "상지대학교에서 교수협의회 폐지를 놓고 재단과 교수들 사이에 알력이 있었을 때 교수협의회 폐지 반대에 앞장섰다.",
+    "slots_ko": {
+      "subject": "상지대학교",
+      "object": "교수"
+    },
+    "slots_en": {
+      "subject": "Jizhi University",
+      "object": "professors"
+    },
+    "slots_th": {
+      "subject": "จิซึ จุฬาลงกรณ์",
+      "object": "อาจารย์"
+    }
+  },
+  {
+    "id": "Org_People_24",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "여전히 13척의 함대는 가지고 있었으나 이 중 출항할 수 있는 것은 소수였고(Naval Wars in the Levant, R.C.Anderson, Liverpool University Press) 육군은 주로 크로아티아인 용병으로 구성된 수 개의 여단만으로 구성되었다.",
+    "slots_ko": {
+      "subject": "육군",
+      "object": "크로아티아인"
+    },
+    "slots_en": {
+      "subject": "army",
+      "object": "Croatian mercenaries"
+    },
+    "slots_th": {
+      "subject": "กองทัพ",
+      "object": "ทหารโครเอเชีย"
+    }
+  },
+  {
+    "id": "Org_People_25",
+    "domain": "Org_People",
+    "relation": "org:top_members/employees",
+    "source_ko": "조선일보사의 취체역 사장을 지냈으며 1953년 코리아타임스를 인수했다.",
+    "slots_ko": {
+      "subject": "조선일보사",
+      "object": "사장"
+    },
+    "slots_en": {
+      "subject": "Chosun Ilbo Company",
+      "object": "CEO"
+    },
+    "slots_th": {
+      "subject": "บริษัท ข่าวเชียงใหม่",
+      "object": "ผู้จัดการ"
+    }
+  }
+]
